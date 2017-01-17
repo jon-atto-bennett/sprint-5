@@ -32,7 +32,7 @@
    var squares = " ";
    var size = 8;
 
-   while (rows <=size) {
+   while (rows<=size) {
      while(cols<=size){
        if((rows+cols)%2==0){
          squares = squares + " ";
